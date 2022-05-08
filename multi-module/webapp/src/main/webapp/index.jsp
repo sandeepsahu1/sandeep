@@ -1,6 +1,4 @@
-BANG BANG
-
-is back
+Hello Everyone
 
 
-Hello Oracle. I am back to bangalore
+welcome to DevopS
